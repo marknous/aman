@@ -7,7 +7,7 @@ h1 {
   
 }
 body{
-  background-color:  white;
+  background-color:  lightgreen;
 }
 p{
   padding:10px;
@@ -22,7 +22,6 @@ p{
   height: 200px;
   margin-right: auto;
   margin-left: auto;
-    margin-top:50px;
   font-family: Helvetica;
   color: black;
   position: relative;
